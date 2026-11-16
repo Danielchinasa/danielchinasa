@@ -1,12 +1,11 @@
 # Daniel Chinasa Okoro
 
-### Senior Software Engineer | Full-Stack Development | Backend Architecture
+### Software Engineer | Full-Stack Development | System Architecture
 
 I build and scale production-grade web and mobile applications, with a focus on backend architecture, API design, system integration, and maintainable software.
 
 My experience spans fintech, digital identity, SaaS platforms, payment integrations, and AI-powered applications. I enjoy solving complex engineering problems, designing reliable systems, and turning product requirements into software that delivers real-world value.
 
-- **Location:** Abuja, Nigeria
 - **Interests:** Software Architecture, Distributed Systems, Backend Engineering, AI Engineering
 - **Open to:** International opportunities and remote engineering roles
 
@@ -18,6 +17,8 @@ My experience spans fintech, digital identity, SaaS platforms, payment integrati
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -43,14 +44,6 @@ My experience spans fintech, digital identity, SaaS platforms, payment integrati
 - Database Design & Data Management
 - AI Integration & Context Engineering
 - Testing, Automation & CI/CD
-
----
-
-### Selected Projects
-
-I enjoy building software that solves practical problems and demonstrates thoughtful engineering.
-
-_Selected projects and detailed technical case studies will be featured here._
 
 ---
 
