@@ -1,50 +1,60 @@
-# 👨‍💻 Daniel Chinasa Okoro
+# Daniel Chinasa Okoro
 
-**Software Engineer | Open Source Contributor | Tech Enthusiast**
+### Senior Software Engineer | Full-Stack Development | Backend Architecture
 
-I am a self-motivated developer with a passion for building scalable web and mobile applications. My focus lies at the intersection of robust backend architecture and intuitive user experiences. Currently, I am deeply involved in the open-source ecosystem, contributing to projects that drive innovation in automation and AI.
+I build and scale production-grade web and mobile applications, with a focus on backend architecture, API design, system integration, and maintainable software.
 
----
+My experience spans fintech, digital identity, SaaS platforms, payment integrations, and AI-powered applications. I enjoy solving complex engineering problems, designing reliable systems, and turning product requirements into software that delivers real-world value.
 
-### 🚀 At a Glance
-
-- 🔭 **Currently:** Contributing to high-impact open-source projects.
-- 👯 **Collaborating on:** Innovative Web/App development & Backend automation.
-- ⚡ **Focusing on:** Advanced Data Structures, Software Architecture, and Cloud Scalability.
-- 🌱 **Learning:** AWS Ecosystem & Containerization (Docker/Kubernetes).
-- 💬 **Ask me about:** Self-learning strategies and my journey in tech.
+- **Location:** Abuja, Nigeria
+- **Interests:** Software Architecture, Distributed Systems, Backend Engineering, AI Engineering
+- **Open to:** International opportunities and remote engineering roles
 
 ---
 
-### 🛠️ Core Tech Stack
+### Technical Expertise
 
 **Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Cloud, Infrastructure & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Engineering Focus**
+
+- Backend Engineering & API Design
+- Software Architecture & System Integration
+- Scalable Web and Mobile Applications
+- Payment Systems & Third-party Integrations
+- Database Design & Data Management
+- AI Integration & Context Engineering
+- Testing, Automation & CI/CD
 
 ---
 
-### 📊 GitHub Metrics
+### Selected Projects
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=danielochinasa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielochinasa&theme=dark&hide_border=true&layout=compact&cache_seconds=1800" height="150" />
-</p>
+I enjoy building software that solves practical problems and demonstrates thoughtful engineering.
 
-<p align="left">
-<img src="https://nirzak-streak-stats.vercel.app/?user=danielchinasa&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak Stats" height="150" />
-</p>
+_Selected projects and detailed technical case studies will be featured here._
 
 ---
 
-### 🤝 Let's Connect
+### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielochinasa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/danielochinasa) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielochinasa@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=danielochinasa&icon=0&color=0" alt="visitor count" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielochinasa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielochinasa@gmail.com)
